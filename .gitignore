@@ -1,0 +1,18 @@
+# OS / 编辑器
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Node/前端常见
+node_modules/
+dist/
+build/
+
+# 备份/临时
+*.log
+*.tmp
+*.swp
+*.bak
+
+
